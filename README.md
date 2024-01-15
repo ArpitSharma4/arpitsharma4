@@ -6,8 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/SharmaArpit05?t=0X4_E0cWtI428jGg_oMWFQ&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/arpitsh10016234?logo=twitter&style=for-the-badge" alt="https://twitter.com/SharmaArpit05?t=0X4_E0cWtI428jGg_oMWFQ&s=09" /></a> </p>
 
-- 🌱 I’m currently learning **C++**
-- 🌱 I'm currently learning **C**
+- 🌱 I’m currently learning **C and C++**
 
 - 💬 Ask me about **HTML**
 
