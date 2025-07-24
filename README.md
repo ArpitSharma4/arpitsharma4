@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning **Automation**
 
-- 💬 Ask me about **WebDev**
 
 - 📫 How to reach me **arpitsharma0004@gmail.com**
 
